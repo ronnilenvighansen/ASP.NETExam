@@ -1,0 +1,11 @@
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/bin/Debug/netcoreapp2.0/ThisIsMyExam.deps.json
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/bin/Debug/netcoreapp2.0/ThisIsMyExam.runtimeconfig.json
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/bin/Debug/netcoreapp2.0/ThisIsMyExam.runtimeconfig.dev.json
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/bin/Debug/netcoreapp2.0/ThisIsMyExam.dll
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/bin/Debug/netcoreapp2.0/ThisIsMyExam.pdb
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.csprojResolveAssemblyReference.cache
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.csproj.CoreCompileInputs.cache
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.AssemblyInfoInputs.cache
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.AssemblyInfo.cs
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.dll
+/Users/ronnilenvighansen/Projects/ThisIsMyExam/ThisIsMyExam/obj/Debug/netcoreapp2.0/ThisIsMyExam.pdb
